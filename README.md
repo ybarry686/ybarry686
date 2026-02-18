@@ -3,8 +3,6 @@
 🐍 **About me**  
 My name is **Yagouba Barry** and I am studying Information Systems at The Ohio State University. When to comes to software engineering I enjoy creating projects that integrate both my personal interests of film & gaming along with real-world technical problems, with the goal of building projects that are both meaningful and personally valuable.
 
----
-
 ## 🎉 Fun Fact
 - I have 1000+ movies reviewed on my Letterboxd profile.  
 
