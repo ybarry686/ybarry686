@@ -3,7 +3,7 @@
 🐍 **About me**  
 My name is **Yagouba Barry** and I am studying Information Systems at The Ohio State University. When to comes to software engineering I enjoy creating projects that integrate both my personal interests of film & gaming along with real-world technical problems, with the goal of building projects that are both meaningful and personally valuable.
 
-## 🎉 Fun Fact
+**Fun Fact**
 - I have 1000+ movies reviewed on my Letterboxd profile.  
 
 ---
@@ -80,11 +80,11 @@ My name is **Yagouba Barry** and I am studying Information Systems at The Ohio S
 
 ---
 
-## 📬 Contact Me
+## Contact Me
 - Email: **yagouba686@gmail.com**  
 - LinkedIn: [linkedin.com/in/ybarry686](https://www.linkedin.com/in/ybarry686](https://www.linkedin.com/in/yagoubabarry/))  
 - Github: [github.com/ybarry686](yagouba686@gmail.com)  
 
 ---
 
-> "Well, who wouldn't, at the Grand Budapest, sir? It's an institution"  
+><center> "Well, who wouldn't, at the Grand Budapest, sir? It's an institution" </center>
