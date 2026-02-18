@@ -81,9 +81,12 @@ My name is **Yagouba Barry** and I am studying Information Systems at The Ohio S
 ---
 
 ## Contact Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yagouba%20Barry-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ybarry686](https://www.linkedin.com/in/yagoubabarry/))
+[![Email](https://img.shields.io/badge/Email-yagouba686@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yagouba686@gmail.com) 
+
 - Email: **yagouba686@gmail.com**  
 - LinkedIn: [linkedin.com/in/ybarry686](https://www.linkedin.com/in/ybarry686](https://www.linkedin.com/in/yagoubabarry/))  
 
 ---
 
-><p align="center"> "Well, who wouldn't, at the Grand Budapest, sir? It's an institution" </p> 
+><p align="center"> "Well, who wouldn't, at the Grand Budapest, sir? It's an institution" - <i> The Grand Budapest Hotel </i> </p> 
