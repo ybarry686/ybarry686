@@ -83,8 +83,7 @@ My name is **Yagouba Barry** and I am studying Information Systems at The Ohio S
 ## Contact Me
 - Email: **yagouba686@gmail.com**  
 - LinkedIn: [linkedin.com/in/ybarry686](https://www.linkedin.com/in/ybarry686](https://www.linkedin.com/in/yagoubabarry/))  
-- Github: [github.com/ybarry686](yagouba686@gmail.com)  
 
 ---
 
-><center> "Well, who wouldn't, at the Grand Budapest, sir? It's an institution" </center>
+><p align="center"> "Well, who wouldn't, at the Grand Budapest, sir? It's an institution" </p> 
