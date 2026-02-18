@@ -81,7 +81,7 @@ My name is **Yagouba Barry** and I am studying Information Systems at The Ohio S
 ---
 
 ## Contact Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yagouba%20Barry-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ybarry686](https://www.linkedin.com/in/yagoubabarry/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yagouba%20Barry-blue?)](https://www.linkedin.com/in/yagoubabarry/))
 [![Email](https://img.shields.io/badge/Email-yagouba686@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yagouba686@gmail.com) 
 
 - Email: **yagouba686@gmail.com**  
