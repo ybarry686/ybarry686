@@ -1,8 +1,11 @@
-<p align="center"> ## Hi!👋, I'm Yagouba Barry </p>
-<p align="center"> Information Systems student @ The Ohio State University </p> 
+<h1 align="center">Hi 👋, I'm Yagouba Barry</h1>
+<h3 align="center">Information Systems student @ The Ohio State University</h3>
 
-Gmail: ...
-Linkedin: ...
+
+<p>
+Gmail: yagouba686@gmail.com<br>
+LinkedIn: linkedin.com/in/yagoubabarry
+</p>
 
 જ⁀➴ **Projects**
 - **The Cinephile Collection** – Movie Recommendation Engine (Full-Stack + ML)  
