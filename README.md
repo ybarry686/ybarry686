@@ -1,7 +1,7 @@
 # Hello there!👋
 
 🐍 **About me**  
-My name is **Yagouba Barry** and I am studying Information Systems at The Ohio State University. When to comes to software engineering I enjoy creating projects that integrate both my personal interests of film & gaming along with real-world technical problems, with the goal of building projects that are both meaningful and personally valuable.
+My name is **Yagouba Barry** and I am studying Information Systems at The Ohio State University. When to comes to software engineering I enjoy creating projects that integrate both my personal interests of film & gaming along with real-world technical problems, with the goal of building something that is both meaningful and personally valuable.
 
 **Fun Fact**
 - I have 1000+ movies reviewed on my Letterboxd profile.  
@@ -9,6 +9,16 @@ My name is **Yagouba Barry** and I am studying Information Systems at The Ohio S
 ---
 
 ## 🛠 Skills & Interests
+જ⁀➴ **Projects**
+- **The Cinephile Collection** – Movie Recommendation Engine (Full-Stack + ML)  
+- **Elemental Genesis** – A 2D top down action rpg  
+- **Explorer Transportation Data Science** – Highlighting high risk of car crash areas across NYC
+
+**Development Niches:**  
+- Software Engineering (Backend + Full-Stack + Data Infra)
+- Machine Learning  
+- Game Development 
+
 **Languages & Tools:**  
 <p align="left" style="display: flex; flex-wrap: wrap; gap: 15px;">
   <a href="https://www.python.org" target="_blank" rel="noreferrer" title="Python" style="border: none;">
@@ -59,18 +69,6 @@ My name is **Yagouba Barry** and I am studying Information Systems at The Ohio S
   </a>
 </p>
 
-**Areas of Interest:**  
-- Software Engineering (Backend + Full-Stack + Data Infra)
-- Machine Learning  
-- Game Development 
-
----
-
-## જ⁀➴ Projects
-- **The Cinephile Collection** – Movie Recommendation Engine (Full-Stack + ML)  
-- **Elemental Genesis** – A 2D top down action rpg  
-- **Explorer Transportation Data Science** – Highlighting high risk areas across NYC 
-
 ---
 
 ## 📚 Where I've Interned
@@ -81,8 +79,8 @@ My name is **Yagouba Barry** and I am studying Information Systems at The Ohio S
 ---
 
 ## Contact Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yagouba%20Barry-blue?)](https://www.linkedin.com/in/yagoubabarry/))
-[![Email](https://img.shields.io/badge/Email-yagouba686@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yagouba686@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yagoubabarry/)
+[![Email](https://img.shields.io/badge/Email-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yagouba686@gmail.com)
 
 - Email: **yagouba686@gmail.com**  
 - LinkedIn: [linkedin.com/in/ybarry686](https://www.linkedin.com/in/ybarry686](https://www.linkedin.com/in/yagoubabarry/))  
