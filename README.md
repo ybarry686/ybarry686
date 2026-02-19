@@ -15,6 +15,8 @@ My name is Yagouba Barry and I am studying Information Systems at The Ohio State
 - **Explorer Transportation Data Science** – Highlighting high risk of car crash areas across NYC
 
 **Languages & Tools:**  
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
+
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer" title="Python">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
