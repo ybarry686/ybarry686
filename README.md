@@ -1,14 +1,9 @@
-# Hey there!👋
+<p align="center"> ## Hi!👋, I'm Yagouba Barry </p>
+<p align="center"> Information Systems student @ The Ohio State University </p> 
 
-**About me**  
-My name is Yagouba Barry and I am studying Information Systems at The Ohio State University. When to comes to software engineering I enjoy creating projects that integrate both my personal interests of film & gaming along with real-world technical problems, with the goal of building something that is both meaningful and personally valuable.
+Gmail: ...
+Linkedin: ...
 
-**Fun Fact**
-- I have 1000+ movies reviewed on my Letterboxd profile.  
-
----
-
-## 🛠 Skills & Interests
 જ⁀➴ **Projects**
 - **The Cinephile Collection** – Movie Recommendation Engine (Full-Stack + ML)  
 - **Elemental Genesis** – A 2D top down action rpg  
@@ -30,7 +25,6 @@ My name is Yagouba Barry and I am studying Information Systems at The Ohio State
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![Seaborn](https://img.shields.io/badge/Seaborn-5A9BD4?style=for-the-badge)](https://seaborn.pydata.org/)
-
 
 ---
 
