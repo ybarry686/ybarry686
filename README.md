@@ -3,8 +3,8 @@
 
 ## જ⁀➴ Projects
 - **The Cinephile Collection** – Movie Recommendation Engine (Full-Stack + ML)  
+- **Crash Course** – Highlighting high risk of car crash areas across NYC
 - **Elemental Genesis** – A 2D top down action rpg  
-- **Explorer Transportation Data Science** – Highlighting high risk of car crash areas across NYC
 
 ## Languages & Tools:  
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
