@@ -1,18 +1,12 @@
 <h1 align="center">Hi 👋, I'm Yagouba Barry</h1>
 <h3 align="center">Information Systems student @ The Ohio State University</h3>
 
-
-<p>
-Gmail: yagouba686@gmail.com<br>
-LinkedIn: linkedin.com/in/yagoubabarry
-</p>
-
-જ⁀➴ **Projects**
+## જ⁀➴ Projects
 - **The Cinephile Collection** – Movie Recommendation Engine (Full-Stack + ML)  
 - **Elemental Genesis** – A 2D top down action rpg  
 - **Explorer Transportation Data Science** – Highlighting high risk of car crash areas across NYC
 
-**Languages & Tools:**  
+## Languages & Tools:  
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -22,7 +16,7 @@ LinkedIn: linkedin.com/in/yagoubabarry
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 
-**Machine Learning Systems:**  
+## Machine Learning Systems:  
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org)
