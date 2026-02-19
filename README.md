@@ -71,19 +71,9 @@ My name is **Yagouba Barry** and I am studying Information Systems at The Ohio S
 
 ---
 
-## 📚 Where I've Interned
-- **Electonic Arts - Technical Project Manager Intern** – Worked on Skate. @ Full Circle Studios  
-- **Huntington - Machine Learning Intern** – Forecasted industry sector growth  
-- **SEO Tech Developer - Software Engineering Intern** – Built multiple full-stack web applications  
-
----
-
 ## Contact Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yagoubabarry/)
 [![Email](https://img.shields.io/badge/Email-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yagouba686@gmail.com)
-
-- Email: **yagouba686@gmail.com**  
-- LinkedIn: [linkedin.com/in/ybarry686](https://www.linkedin.com/in/ybarry686](https://www.linkedin.com/in/yagoubabarry/))  
 
 ---
 
