@@ -3,7 +3,7 @@
 
 ## જ⁀➴ Projects
 - **The Cinephile Collection** – Movie Recommendation Engine (Full-Stack + ML)  
-- **Crash Course** – Highlighting high risk of car crash areas across NYC
+- **Crash Course** – Highlighting areas with high risk of car crashes across NYC
 - **Elemental Genesis** – A 2D top down action rpg  
 
 ## Languages & Tools:  
