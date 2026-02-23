@@ -2,7 +2,7 @@
 <h3 align="center">Information Systems student @ The Ohio State University</h3>
 
 ## જ⁀➴ Projects
-- **The Cinephile Collection** – Movie Recommendation Engine (Full-Stack + ML)  
+- [**The Cinephile Collection**](https://github.com/ybarry686/The-Cinephile-Collection) – Movie Recommendation Engine (Full-Stack + ML)
 - **Crash Course** – Highlighting areas with high risk of car crashes across NYC
 - **Elemental Genesis** – A 2D top down action rpg  
 
