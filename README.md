@@ -2,9 +2,9 @@
 <h3 align="center">Information Systems student @ The Ohio State University</h3>
 
 ## જ⁀➴ Projects
-- [**The Cinephile Collection**](https://github.com/ybarry686/The-Cinephile-Collection) – Movie Recommendation Engine (Full-Stack + ML)
+- [**Huntington: Macro-Equity Engine**](https://github.com/ybarry686/Huntington-macro-equity-engine) – Predicting asset class sensitivity using lagged macro-indicators 
+- [**The Cinephile Collection**](https://github.com/ybarry686/The-Cinephile-Collection) – Full-Stack Movie Recommendation Engine
 - **Crash Course** – Highlighting areas with high risk of car crashes across NYC
-- **Elemental Genesis** – A 2D top down action rpg  
 
 ## Languages & Tools:  
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
