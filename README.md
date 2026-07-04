@@ -3,8 +3,8 @@
 
 ## જ⁀➴ Projects
 - [**Huntington: Macro-Equity Engine**](https://github.com/ybarry686/Huntington-macro-equity-engine) – Predicting asset class sensitivity using lagged macro-indicators 
-- [**The Cinephile Collection**](https://github.com/ybarry686/The-Cinephile-Collection) – Context-Aware Movie Recommendation Engine
-- [**TravelerMatch**](https://github.com/ybarry686/TravelerMatch) – AI-Powered Personalized Travel Recommendation Engine
+- [**Prism**](https://github.com/ybarry686/Prism) – Real-time distributed personalization and recommendation platform
+- [**TravelerMatch**](https://github.com/ybarry686/TravelerMatch) – AI-Powered Personalized Travel Recommendations
 
 ## Languages & Tools:  
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
