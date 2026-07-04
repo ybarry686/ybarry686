@@ -2,7 +2,7 @@
 <h3 align="center">Information Systems student @ The Ohio State University</h3>
 
 ## જ⁀➴ Projects
-- [**Huntington: Macro-Equity Engine**](https://github.com/ybarry686/Huntington-macro-equity-engine) – Predicting asset class sensitivity using lagged macro-indicators 
+- [**AlphaGrid**](https://github.com/ybarry686/AlphaGrid) – Macro-driven equity forecasting and signal discovery platform 
 - [**Prism**](https://github.com/ybarry686/Prism) – Real-time distributed personalization and recommendation platform
 - [**TravelerMatch**](https://github.com/ybarry686/TravelerMatch) – AI-Powered Personalized Travel Recommendations
 
