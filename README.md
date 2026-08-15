@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yagouba Barry</h1>
-<h3 align="center">Information Systems student @ The Ohio State University</h3>
+<h3 align="center">Information Systems + Film student @ The Ohio State University</h3>
 
 ## જ⁀➴ Projects
 - [**AlphaGrid**](https://github.com/ybarry686/AlphaGrid) – Macro-driven equity forecasting and signal discovery platform 
