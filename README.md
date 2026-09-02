@@ -4,7 +4,7 @@
 ## જ⁀➴ Projects
 - [**AlphaGrid**](https://github.com/ybarry686/AlphaGrid) – Macro-driven equity forecasting and signal discovery platform 
 - [**Prism**](https://github.com/ybarry686/Prism) – Real-time distributed personalization and recommendation platform
-- [**TravelerMatch**](https://github.com/ybarry686/TravelerMatch) – AI-Powered Personalized Travel Recommendations
+- [**TravelerMatch**](https://github.com/ybarry686/TravelerMatch) – AI-powered personalized travel recommendations
 
 ## Languages & Tools:  
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
