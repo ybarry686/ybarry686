@@ -5,5 +5,3 @@ Prev Applied AI @ Electronic Arts
 Road to being a 10x engineer!
 
 [Email](mailto:yagouba686@gmail.com) [LinkedIn](https://www.linkedin.com/in/yagoubabarry/)
-
-><p align="center"> "Well, who wouldn't, at the Grand Budapest, sir? It's an institution" - <i> TGBH </i> </p> 
